@@ -404,13 +404,14 @@ section#opis-main {
 
 .img-block-v1 {
     width: 32%;
-    height: auto;
+    max-height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     gap: 40px;
     align-items: center;
     padding: 10px 5px;
+    overflow: hidden;
 }
 
 .img-block-v1 img {
@@ -430,12 +431,13 @@ section#opis-main {
 
 .img-block-v2 {
     width: 31%;
-    height: auto;
+    max-height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 40px;
+    overflow: hidden;
 }
 
 .img-block-v2 img {
@@ -455,11 +457,12 @@ section#opis-main {
 
 .img-block-v3 {
     width: auto;
-    height: 190px;
+    max-height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 10px 5px;
+    overflow: hidden;
 }
 
 .img-block-v3 img {
@@ -479,13 +482,14 @@ section#opis-main {
 
 .img-block-v3-2 {
     width: auto;
-    height: auto;
+    max-height: 400px;
     display: flex;
     flex-direction: row;
     gap: 35px;
     justify-content: center;
     align-items: center;
     padding: 10px 5px;
+    overflow: hidden;
 }
 
 .img-block-v3-2 img {
@@ -546,13 +550,14 @@ section#opis-main {
 
 .img-block-v1-4 {
     width: 35%;
-    height: auto;
+    max-height: 600px;
     display: flex;
     flex-direction: column;
     gap: 40px;
     justify-content: center;
     align-items: center;
     padding: 0px 5px;
+    overflow: hidden;
 }
 
 .img-block-v1-4 img {
