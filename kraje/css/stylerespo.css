@@ -1,0 +1,733 @@
+@media (max-width: 1671px) {
+    .container main section#baner .baner-place .baner-content img{
+        height: 180px;
+    }
+
+    .container main section#opis-main .opis-name-place {
+        width: 70%;
+    }
+
+}
+
+@media (max-width: 1400px) {
+    .container header {
+        padding: 0px 200px;
+    }
+
+    .container main section#baner {
+        height: 60vh;
+    }
+
+    .container main section#baner .baner-place .baner-content {
+        gap: 15px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 45pt;
+    }
+
+    .container main section#baner .baner-place .baner-content img{
+        height: 165px;
+    }
+
+    .container main section#opis-main .opis-name-place {
+        width: 80%;
+    }
+
+}
+
+@media (max-width: 1200px) {
+    .container header {
+        padding: 0px 200px;
+    }
+
+    .container main section#baner {
+        height: 60vh;
+    }
+
+    .container main section#baner .baner-place .baner-content {
+        gap: 5px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 45pt;
+    }
+
+    .container main section#baner .baner-place .baner-content img{
+        height: 155px;
+    }
+
+    .container main section#opis-main .opis-name-place {
+        width: 90%;
+    }
+
+    .container footer .navigation-row {
+        width: 70%;
+    }
+
+    .container footer .copyright hr {
+        width: 80%;
+    }
+
+}
+
+@media (max-width: 1000px) {
+    .container header {
+        padding: 0px 140px;
+    }
+
+    .container main section#baner {
+        height: 56vh;
+    }
+
+    .container main section#baner .baner-place .baner-content {
+        gap: 5px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 43pt;
+    }
+
+    .container main section#baner .baner-place .baner-content img{
+        height: 150px;
+    }
+
+    .container main section#opis-main .opis-name-place {
+        width: 91%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .container main section#opis-main .opis-name-place .o-p-c-b {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .o-p-c-b-2 {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .text-block-v1 {
+        width: 95%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 {
+        width: auto;
+        height: 190px;
+        gap: 70px;
+        flex-direction: row;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v2 {
+        width: auto;
+        height: 190px;
+        gap: 70px;
+        flex-direction: row;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 img {
+        width: auto;
+        height: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v2 img {
+        width: auto;
+        height: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text {
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .o-i-t-2 {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text .text-block-v3 {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text .img-block-v1-4 {
+        flex-direction: row;
+        width: auto;
+        height: 190px;
+    }
+
+    .container footer .navigation-row {
+        width: 75%;
+    }
+
+    .container footer .copyright hr {
+        width: 93%;
+    }
+
+    .container footer .navigation-row .brand-logo-rb a img {
+        height: 50px;
+    }
+
+}
+
+@media (max-width: 810px) {
+    .container header {
+        padding: 0px 90px;
+    }
+
+    .container main section#baner {
+        height: 49vh;
+    }
+
+    .container main section#baner .baner-place {
+        padding: 120px 20px 10px 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content {
+        gap: 5px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 42pt;
+    }
+
+    .container main section#baner .baner-place .baner-content img{
+        height: 140px;
+    }
+
+    .container main section#opis-main .opis-name-place {
+        width: 97%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b {
+        flex-direction: column;
+        gap: 20px;
+        padding: 1px;
+    }
+
+    .container main section#opis-main .opis-name-place .o-p-c-b {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .o-p-c-b-2 {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .text-block-v1 {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 {
+        width: auto;
+        height: 190px;
+        gap: 70px;
+        flex-direction: row;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v2 {
+        width: auto;
+        height: 190px;
+        gap: 70px;
+        flex-direction: row;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 img {
+        width: auto;
+        height: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v2 img {
+        width: auto;
+        height: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text {
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .o-i-t-2 {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 {
+        width: 100%;
+        padding: 1px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .text-block-v2 {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text .img-block-v1-4 {
+        flex-direction: row;
+        width: auto;
+        height: 190px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2 {
+        width: 100%;
+        padding: 1px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2 .text-block-v2 {
+        width: 100%;
+    }
+
+    .container footer .navigation-row {
+        width: 75%;
+    }
+
+    .container footer .copyright hr {
+        width: 93%;
+    }
+
+    .container footer .navigation-row .brand-logo-rb a img {
+        height: 50px;
+    }
+
+}
+
+
+@media (max-width: 630px) {
+    .container header {
+        padding: 0px 40px;
+    }
+
+    .container main section#baner {
+        height: 39vh;
+    }
+
+    .container main section#baner video {
+        object-position: center -280px;
+    }
+
+    .container main section#baner .baner-place {
+        padding: 80px 20px 10px 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content {
+        gap: 5px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 41pt;
+    }
+
+    .container main section#baner .baner-place .baner-content img{
+        height: 130px;
+    }
+
+    .container main section#opis-main .opis-name-place {
+        width: 97%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b {
+        flex-direction: column;
+        gap: 20px;
+        padding: 1px;
+    }
+
+    .container main section#opis-main .opis-name-place .o-p-c-b {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .o-p-c-b-2 {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .text-block-v1 {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 {
+        width: auto;
+        height: 190px;
+        gap: 70px;
+        flex-direction: row;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v2 {
+        width: auto;
+        height: 190px;
+        gap: 70px;
+        flex-direction: row;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 img {
+        width: auto;
+        height: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v2 img {
+        width: auto;
+        height: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text {
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .o-i-t-2 {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 {
+        width: 100%;
+        padding: 1px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .text-block-v2 {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text .img-block-v1-4 {
+        flex-direction: row;
+        width: auto;
+        height: 190px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2 {
+        width: 100%;
+        padding: 1px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2 .text-block-v2 {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2 .img-block-v3-2 {
+        width: auto;
+        height: auto;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2 .img-block-v3-2 img {
+        height: 170px;
+    }
+
+    .container footer .navigation-row {
+        flex-direction: column;
+        gap: 5px;
+        width: 80%;
+    }
+
+    .container footer .navigation-row .navigation-f ul li a {
+        font-size: 18pt;
+    }
+
+    .container footer .navigation-row .socials a i {
+        font-size: 27pt;
+    }
+
+    .container footer .navigation-row .brand-logo-rb {
+        gap: 50px;
+    }
+
+    .container footer .navigation-row .brand-logo-rb a img {
+        width: 56px;
+        height: auto;
+    }
+
+    .container footer .copyright hr {
+        width: 99%;
+    }
+}
+
+
+@media (max-width: 610px) {
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 {
+        width: auto;
+        height: auto;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 img {
+        height: 170px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text .img-block-v1-4 {
+        width: auto;
+        height: auto;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text .img-block-v1-4 img {
+        height: 170px;
+    }
+
+}
+
+@media (max-width: 500px) {
+    .container header {
+        padding: auto;
+        justify-content: center;
+        gap: 40px;
+    }
+
+    
+    .container header nav ul li a {
+        padding: 8px;
+    }
+
+    .container header nav ul li h2 {
+        padding: 8px;
+    }
+
+    .container main section#baner {
+        height: 39vh;
+    }
+
+    .container main section#baner video {
+        object-position: center -280px;
+    }
+
+    .container main section#baner .baner-place {
+        padding: 90px 20px 10px 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content {
+        gap: 5px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 41pt;
+    }
+
+    .container main section#baner .baner-place .baner-content img{
+        height: 120px;
+    }
+
+    .container main section#opis-main {
+        padding: 0;
+    }
+
+    .container main section#opis-main .opis-name-place {
+        width: 100%;
+        padding: 27px 10px;
+        border-radius: 0px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b {
+        flex-direction: column;
+        gap: 20px;
+        padding: 1px;
+    }
+
+    .container main section#opis-main .opis-name-place .o-p-c-b {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .o-p-c-b-2 {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .text-block-v1 {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 {
+        width: auto;
+        height: auto;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 img {
+        height: 170px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v2 {
+        width: auto;
+        height: auto;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v2 img {
+        height: 170px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text {
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .o-i-t-2 {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 {
+        width: 100%;
+        padding: 1px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .text-block-v2 {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .text-block-v3 {
+        width: 100%;
+        padding: 3px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text .img-block-v1-4 {
+        flex-direction: row;
+        width: auto;
+        height: 190px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2 {
+        width: 100%;
+        padding: 1px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2 .text-block-v2 {
+        width: 100%;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2 .img-block-v3-2 {
+        width: auto;
+        height: auto;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2 .img-block-v3-2 img {
+        height: 170px;
+    }
+
+    .container footer .navigation-row {
+        flex-direction: column;
+        gap: 5px;
+        width: 80%;
+    }
+
+    .container footer .navigation-row .navigation-f ul li a {
+        font-size: 18pt;
+    }
+
+    .container footer .navigation-row .socials a i {
+        font-size: 27pt;
+    }
+
+    .container footer .navigation-row .brand-logo-rb {
+        gap: 50px;
+    }
+
+    .container footer .navigation-row .brand-logo-rb a img {
+        width: 56px;
+        height: auto;
+    }
+
+    .container footer .copyright hr {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 610px) {
+    .container header {
+        padding: auto;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .container main section#baner {
+        height: 39vh;
+    }
+
+    .container main section#baner video {
+        object-position: center -280px;
+    }
+
+    .container main section#baner .baner-place {
+        padding: 80px 20px 10px 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content {
+        gap: 5px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 41pt;
+    }
+
+    .container main section#baner .baner-place .baner-content img{
+        height: 90px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 {
+        width: auto;
+        height: auto;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b .img-block-v1 img {
+        height: 150px;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text .img-block-v1-4 {
+        width: auto;
+        height: auto;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .container main section#opis-main .opis-name-place .opis-contr-b-2-2 .opis-in-text .img-block-v1-4 img {
+        height: 150px;
+    }
+
+}
+
+@media (max-width: 450px) {
+    .container header {
+        padding: auto;
+        justify-content: center;
+        gap: 20px;
+    }
+
+
+    .container header nav ul li a {
+        padding: 6px;
+    }
+
+    .container header nav ul li h2 {
+        padding: 6px;
+    }
+
+}
+
+@media (max-width: 350px) {
+    .container header {
+        padding: auto;
+        justify-content: center;
+        gap: 0px;
+    }
+
+    .container header .logo-holly a img {
+        display: none;
+    }
+
+    .container header nav ul li a {
+        padding: 4px;
+    }
+
+    .container header nav ul li h2 {
+        padding: 4px;
+    }
+
+}

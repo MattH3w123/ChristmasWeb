@@ -1,0 +1,989 @@
+@media (max-width: 1671px) {
+    
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto auto auto;
+        justify-content: center;
+        grid-gap: 30px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .container header {
+       padding: 0px 200px;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 {
+        padding: 20px 0px;
+    }
+
+    .container main section#opis-2 .opis-2-contr {
+        flex-direction: column-reverse;
+        gap: 5px;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b {
+        width: 80%;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-img-contr img {
+        height: 230px;
+        width: auto;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-content-text h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto auto;
+        justify-content: center;
+        grid-gap: 30px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf .img-contr {
+        width: 440px;
+        height: 290px;
+    }
+
+    .container main section#opis-4 .o-4-place {
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-cont-txt {
+        width: 80%;
+    }
+    
+    .container main section#opis-4 .o-4-place .o-4-cont-txt h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-img-cont img {
+        width: auto;
+        height: 220px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .container header {
+       padding: 0px 200px;
+    }
+
+    .container main section#baner {
+        height: 53vh;
+    }
+
+    .container main section#baner video {
+        width: 100%;
+        height: auto;
+        object-position: center center;
+    }
+
+    .container main section#baner .baner-place {
+        padding: 100px 20px 10px 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 40pt;
+    }
+    
+    .container main section#opis-1 .opis-1-contr {
+        flex-direction: column;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-contr-b {
+        width: 85%;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-img-contr img {
+        width: auto;
+        height: 200px;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 {
+        padding: 20px 0px;
+    }
+
+    .container main section#opis-2 .opis-2-contr {
+        flex-direction: column-reverse;
+        gap: 5px;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b {
+        width: 95%;
+        padding: 20px 15px 5px 15px;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-img-contr img {
+        height: 250px;
+        width: auto;
+    }
+
+    .container main section#opsi-3 .opis-3-contr {
+        width: 70%;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b  {
+        gap: 10px;
+        justify-content: space-around;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-content-text h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto auto;
+        justify-content: center;
+        grid-gap: 30px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf .img-contr {
+        width: 420px;
+        height: 280px;
+    }
+
+    .container main section#opis-4 .o-4-place {
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-cont-txt {
+        width: 95%;
+    }
+    
+    .container main section#opis-4 .o-4-place .o-4-cont-txt h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-img-cont img {
+        width: auto;
+        height: 225px;
+    }
+
+    .container footer .navigation-row {
+        width: 70%;
+    }
+
+    .container footer .copyright hr {
+        width: 80%;
+    }
+}
+
+@media (max-width: 977px) {
+    
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto auto;
+        justify-content: center;
+        grid-gap: 25px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf .img-contr {
+        width: 380px;
+        height: 260px;
+    }
+}
+
+@media (max-width: 910px) {
+    
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto auto;
+        justify-content: center;
+        grid-gap: 25px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf .img-contr {
+        width: 350px;
+        height: 230px;
+    }
+}
+
+@media (max-width: 900px) {
+    .container header {
+       padding: 0px 150px;
+    }
+
+    .container main section#baner {
+        height: 42vh;
+    }
+
+    .container main section#baner video {
+        width: 100%;
+        height: auto;
+        object-position: center center;
+    }
+
+    .container main section#baner .baner-place {
+        padding: 85px 20px 10px 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content {
+        gap: 15px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 38pt;
+    }
+    
+    .container main section#baner .baner-place .baner-content img {
+        height: 160px;
+    }
+
+    .container main section#opis-1 {
+        padding: 30px 0px 10px 0px;
+    }
+
+    .container main section#opis-1 .opis-1-contr {
+        flex-direction: column;
+    }
+
+    .container main section#opis-1 .opis-1-contr {
+        width: 90%;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-contr-b {
+        width: 96%;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-img-contr img {
+        width: auto;
+        height: 200px;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 {
+        padding: 20px 0px;
+    }
+
+    .container main section#opis-2 .opis-2-contr {
+        flex-direction: column-reverse;
+        gap: 5px;
+    }
+
+    .container main section#opis-2 .opis-2-contr {
+        width: 90%;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b {
+        width: 90%;
+        padding: 20px 15px 5px 15px;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-img-contr img {
+        height: 250px;
+        width: auto;
+    }
+
+    .container main section#opsi-3 .opis-3-contr {
+        width: 80%;
+        padding: 10px;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b  {
+        gap: 10px;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-c-b-r {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-content-text {
+        width: 95%;
+        padding: 10px;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-content-text h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-img-content {
+        width: auto;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-img-content img {
+        width: auto;
+        height: 250px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto auto;
+        justify-content: center;
+        grid-gap: 30px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf .img-contr {
+        width: 350px;
+        height: 230px;
+    }
+
+    .container main section#opis-4 .o-4-place {
+        flex-direction: column;
+        gap: 5px;
+        width: 90%;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-cont-txt {
+        width: 90%;
+    }
+    
+    .container main section#opis-4 .o-4-place .o-4-cont-txt h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-img-cont img {
+        width: auto;
+        height: 225px;
+    }
+
+    .container footer .navigation-row {
+        width: 75%;
+    }
+
+    .container footer .copyright hr {
+        width: 93%;
+    }
+}
+
+@media (max-width: 820px) {
+    
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto;
+        justify-content: center;
+        grid-gap: 35px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf .img-contr {
+        width: 460px;
+        height: 270px;
+    }
+}
+
+@media (max-width: 700px) {
+    .container header {
+       padding: 0px 100px;
+    }
+
+    .container main section#baner {
+        height: 41vh;
+        background: linear-gradient(to right, rgba(0, 0, 0, .1), rgba(0, 0, 0, .3)), url(../img/xmaskingdom.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+    }
+
+    .container main section#baner .baner-place {
+        padding: 90px 20px 10px 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content {
+        gap: 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 38pt;
+    }
+    
+    .container main section#baner .baner-place .baner-content img {
+        height: 160px;
+    }
+
+    .container main section#opis-1 {
+        padding: 30px 0px 10px 0px;
+    }
+
+    .container main section#opis-1 .opis-1-contr {
+        flex-direction: column;
+    }
+
+    .container main section#opis-1 .opis-1-contr {
+        width: 92%;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-contr-b {
+        width: 100%;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-img-contr img {
+        width: auto;
+        height: 210px;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 {
+        padding: 20px 0px;
+    }
+
+    .container main section#opis-2 .opis-2-contr {
+        flex-direction: column-reverse;
+        gap: 5px;
+    }
+
+    .container main section#opis-2 .opis-2-contr {
+        width: 92%;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b {
+        width: 100%;
+        padding: 20px 15px 10px 15px;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-img-contr img {
+        height: 240px;
+        width: auto;
+    }
+
+    .container main section#opsi-3 .opis-3-contr {
+        width: 90%;
+        padding: 10px;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b  {
+        gap: 10px;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-c-b-r {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-content-text {
+        width: 95%;
+        padding: 10px;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-content-text h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-img-content {
+        width: auto;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-img-content img {
+        width: auto;
+        height: 250px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto;
+        justify-content: center;
+        grid-gap: 35px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf .img-contr {
+        width: 460px;
+        height: 270px;
+    }
+
+    .container main section#opis-4 .o-4-place {
+        flex-direction: column;
+        gap: 5px;
+        width: 92%;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-cont-txt {
+        width: 100%;
+    }
+    
+    .container main section#opis-4 .o-4-place .o-4-cont-txt h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-img-cont img {
+        width: auto;
+        height: 225px;
+    }
+
+    .container footer .navigation-row {
+        width: 80%;
+    }
+
+    .container footer .copyright hr {
+        width: 97%;
+    }
+}
+
+@media (max-width: 600px) {
+    
+    .container header {
+        padding: 0 50px;
+     }
+}
+
+@media (max-width: 515px) {
+    
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto;
+        justify-content: center;
+        grid-gap: 35px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf .img-contr {
+        width: 400px;
+        height: 260px;
+    }
+}
+
+@media (max-width: 510px) {
+    .container header {
+        padding: auto;
+        justify-content: center;
+        gap: 40px;
+    }
+
+    
+    .container header nav ul li a {
+        padding: 8px;
+    }
+
+    .container header nav ul li h2 {
+        padding: 8px;
+    }
+
+    .container main section#baner {
+        height: 38vh;
+        background: linear-gradient(to right, rgba(0, 0, 0, .1), rgba(0, 0, 0, .3)), url(../img/xmaskingdom.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+    }
+
+    .container main section#baner .baner-place {
+        padding: 80px 20px 10px 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content {
+        gap: 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 38pt;
+    }
+    
+    .container main section#baner .baner-place .baner-content img {
+        height: 160px;
+    }
+
+    .container main section#opis-1 {
+        padding: 30px 0px 10px 0px;
+    }
+
+    .container main section#opis-1 .opis-1-contr {
+        flex-direction: column;
+    }
+
+    .container main section#opis-1 .opis-1-contr {
+        width: 96%;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-contr-b {
+        width: 100%;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-img-contr img {
+        width: auto;
+        height: 210px;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 {
+        padding: 20px 0px;
+    }
+
+    .container main section#opis-2 .opis-2-contr {
+        flex-direction: column-reverse;
+        gap: 5px;
+    }
+
+    .container main section#opis-2 .opis-2-contr {
+        width: 96%;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b {
+        width: 100%;
+        padding: 20px 15px 10px 15px;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-img-contr img {
+        height: 220px;
+        width: auto;
+    }
+
+    .container main section#opsi-3 .opis-3-contr {
+        width: 96%;
+        padding: 10px;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b  {
+        gap: 10px;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-c-b-r {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-content-text {
+        width: 95%;
+        padding: 10px;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-content-text h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-img-content {
+        width: auto;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-img-content img {
+        width: auto;
+        height: 250px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto;
+        justify-content: center;
+        grid-gap: 35px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf .img-contr {
+        width: 400px;
+        height: 260px;
+    }
+
+    .container main section#opis-4 .o-4-place {
+        flex-direction: column;
+        gap: 5px;
+        width: 96%;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-cont-txt {
+        width: 99%;
+    }
+    
+    .container main section#opis-4 .o-4-place .o-4-cont-txt h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-img-cont img {
+        width: auto;
+        height: 205px;
+    }
+
+    .container footer .navigation-row {
+        flex-direction: column;
+        gap: 5px;
+        width: 80%;
+    }
+
+    .container footer .navigation-row .navigation-f ul li a {
+        font-size: 18pt;
+    }
+
+    .container footer .navigation-row .socials a i {
+        font-size: 27pt;
+    }
+
+    .container footer .navigation-row .brand-logo-rb {
+        gap: 50px;
+    }
+
+    .container footer .navigation-row .brand-logo-rb a img {
+        width: 60px;
+        height: auto;
+    }
+
+    .container footer .copyright hr {
+        width: 99%;
+    }
+}
+
+@media (max-width: 450px) {
+    .container header {
+        padding: auto;
+        justify-content: center;
+        gap: 20px;
+    }
+
+
+    .container header nav ul li a {
+        padding: 6px;
+    }
+
+    .container header nav ul li h2 {
+        padding: 6px;
+    }
+
+}
+
+@media (max-width: 446px) {
+    
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto;
+        justify-content: center;
+        grid-gap: 35px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf .img-contr {
+        width: 380px;
+        height: 260px;
+    }
+}
+
+@media (max-width: 430px) {
+    .container header {
+        padding: auto;
+        justify-content: center;
+        gap: 20px;
+    }
+
+
+    .container header nav ul li a {
+        padding: 6px;
+    }
+
+    .container header nav ul li h2 {
+        padding: 6px;
+    }
+
+    .container main section#baner {
+        height: 37vh;
+        background: linear-gradient(to right, rgba(0, 0, 0, .1), rgba(0, 0, 0, .3)), url(../img/xmaskingdom.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+    }
+
+    .container main section#baner .baner-place {
+        padding: 70px 20px 10px 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content {
+        gap: 20px;
+    }
+
+    .container main section#baner .baner-place .baner-content h1 {
+        font-size: 37pt;
+    }
+    
+    .container main section#baner .baner-place .baner-content img {
+        height: 160px;
+    }
+
+    .container main section#opis-1 {
+        padding: 30px 0px 10px 0px;
+    }
+
+    .container main section#opis-1 .opis-1-contr {
+        flex-direction: column;
+    }
+
+    .container main section#opis-1 .opis-1-contr {
+        width: 99%;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-contr-b {
+        width: 100%;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-img-contr img {
+        width: auto;
+        height: 190px;
+    }
+
+    .container main section#opis-1 .opis-1-contr .o-1-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 {
+        padding: 20px 0px;
+    }
+
+    .container main section#opis-2 .opis-2-contr {
+        flex-direction: column-reverse;
+        gap: 5px;
+    }
+
+    .container main section#opis-2 .opis-2-contr {
+        width: 99%;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b {
+        width: 100%;
+        padding: 20px 15px 10px 15px;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-contr-b h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-2 .opis-2-contr .o-2-img-contr img {
+        height: 210px;
+        width: auto;
+    }
+
+    .container main section#opsi-3 .opis-3-contr {
+        width: 99%;
+        padding: 10px;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b  {
+        gap: 10px;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-c-b-r {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-content-text {
+        width: 95%;
+        padding: 10px;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-content-text h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-img-content {
+        width: auto;
+    }
+
+    .container main section#opsi-3 .opis-3-contr .o-3-contr-b .o-3-img-content img {
+        width: auto;
+        height: 250px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf {
+        grid-template-columns: auto;
+        justify-content: center;
+        grid-gap: 35px;
+    }
+
+    .container main section#img-gfs .img-gfa-place .gallery-gf .img-contr {
+        width: 350px;
+        height: 240px;
+    }
+
+    .container main section#opis-4 .o-4-place {
+        flex-direction: column;
+        gap: 5px;
+        width: 99%;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-cont-txt {
+        width: 99%;
+    }
+    
+    .container main section#opis-4 .o-4-place .o-4-cont-txt h1 {
+        font-size: 21pt;
+    }
+
+    .container main section#opis-4 .o-4-place .o-4-img-cont img {
+        width: auto;
+        height: 185px;
+    }
+
+    .container footer .navigation-row {
+        flex-direction: column;
+        gap: 5px;
+        width: 80%;
+    }
+
+    .container footer .navigation-row .navigation-f ul li a {
+        font-size: 18pt;
+    }
+
+    .container footer .navigation-row .socials a i {
+        font-size: 27pt;
+    }
+
+    .container footer .navigation-row .brand-logo-rb {
+        gap: 50px;
+    }
+
+    .container footer .navigation-row .brand-logo-rb a img {
+        width: 60px;
+        height: auto;
+    }
+
+    .container footer .copyright hr {
+        width: 100%;
+    }
+}
+
+@media (max-width: 350px) {
+    .container header {
+        padding: auto;
+        justify-content: center;
+        gap: 0px;
+    }
+
+    .container header .logo-holly a img {
+        display: none;
+    }
+
+    .container header nav ul li a {
+        padding: 4px;
+    }
+
+    .container header nav ul li h2 {
+        padding: 4px;
+    }
+
+}
